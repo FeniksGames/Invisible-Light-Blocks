@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cde",
+    "fgh"
+  ],
+  "key": {
+    "a": "minecraft:glass",
+    "b": "minecraft:candle",
+    "c": "minecraft:torch",
+    "d": "minecraft:soul_torch",
+    "e": "minecraft:copper_torch",
+    "f": "minecraft:ochre_froglight",
+    "g": "minecraft:verdant_froglight",
+    "h": "minecraft:pearlescent_froglight"
+  },
+  "result": {
+    "id": "minecraft:light",
+    "count": 1
+  }
+}
